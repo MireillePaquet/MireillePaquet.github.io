@@ -1,0 +1,35 @@
+---
+title: "Mireille Paquet"
+about:
+  template: trestles
+  image-shape: rectangle
+  image-width: 14em
+  image: MP.jpg
+  links:
+    - text: Google Scholar
+      href: https://scholar.google.com/citations?user=3jG7sA8AAAAJ&hl=en&oi=ao
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/mireille-paquet/
+    - text: ORCID
+      href: https://orcid.org/0000-0003-1938-2734
+---
+
+Bonjour, welcome,
+
+I am a political scientist and a Professor of Political Science at Concordia University in Montreal, Canada. My research focuses on immigration politics and policy, which I study in Canada, in settler states and in comparative perspective.
+
+At Concordia, I direct the [Institute for Research on Migration and Society (IRMS)](https://www.concordia.ca/artsci/research/irms.html) and I hold the [Concordia Research Chair on the Politics of Immigration](https://www.concordia.ca/research/chairs/politics-of-immigration.html). I am the co-lead of the [Réseau québécois de la recherche en immigration, en intégration et en relations interculturelles (RQ3i)](https://rq3i.ca).
+
+I also have the privilege of being a co-lead of the CFREF [Bridging Divides](https://www.torontomu.ca/bridging-divides/) research program, in collaboration with researchers from Toronto Metropolitan University, the University of British Columbia, and the University of Alberta.
+
+Don't hesitate to reach out to discuss research, supervision or policy issues. I am at mireille.paquet \[at\] concordia.ca.
+
+------------------------------------------------------------------------
+
+Je suis politologue et professeure titulaire au Département de science politique de l'Université Concordia, à Montréal. Mes recherches portent sur la politique et les politiques publiques d'immigration, que j'étudie au Canada et dans une perspective comparée.
+
+À Concordia, je dirige l'[Institut de recherche sur la migration et la société (IRMS)](https://www.concordia.ca/fr/arts-sciences/recherche/irms.html) et je suis titulaire de la [Chaire de recherche de l'Université Concordia sur la politique de l'immigration](https://www.concordia.ca/research/chairs/politics-of-immigration.html). Je codirige le [Réseau québécois de la recherche en immigration, en intégration et en relations interculturelles (RQ3i)](https://rq3i.ca).
+
+J'ai également le privilège de codiriger le programme de recherche CFREF [Bridging Divides](https://www.torontomu.ca/bridging-divides/), en collaboration avec des chercheuses et chercheurs de la Toronto Metropolitan University, de l'Université de la Colombie-Britannique et de l'Université de l'Alberta.
+
+N'hésitez pas à me contacter pour discuter de recherche, de supervision ou encore de politiques publiques. Mon courriel est mireille.paquet \[at\] concordia.ca.
