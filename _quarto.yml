@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - googled63121945e758159.html
 
 website:
   title: "Mireille Paquet"
